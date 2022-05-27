@@ -1,0 +1,15 @@
+C:\Users\cwart\Google Drive\Arquivos de Programação\udemy\LINQ\secao02 - basic linq query\secao02 - basic linq query\a03 - what is linq\bin\Debug\net6.0\a03 - what is linq.exe
+C:\Users\cwart\Google Drive\Arquivos de Programação\udemy\LINQ\secao02 - basic linq query\secao02 - basic linq query\a03 - what is linq\bin\Debug\net6.0\a03 - what is linq.deps.json
+C:\Users\cwart\Google Drive\Arquivos de Programação\udemy\LINQ\secao02 - basic linq query\secao02 - basic linq query\a03 - what is linq\bin\Debug\net6.0\a03 - what is linq.runtimeconfig.json
+C:\Users\cwart\Google Drive\Arquivos de Programação\udemy\LINQ\secao02 - basic linq query\secao02 - basic linq query\a03 - what is linq\bin\Debug\net6.0\a03 - what is linq.dll
+C:\Users\cwart\Google Drive\Arquivos de Programação\udemy\LINQ\secao02 - basic linq query\secao02 - basic linq query\a03 - what is linq\bin\Debug\net6.0\a03 - what is linq.pdb
+C:\Users\cwart\Google Drive\Arquivos de Programação\udemy\LINQ\secao02 - basic linq query\secao02 - basic linq query\a03 - what is linq\obj\Debug\net6.0\a03 - what is linq.csproj.AssemblyReference.cache
+C:\Users\cwart\Google Drive\Arquivos de Programação\udemy\LINQ\secao02 - basic linq query\secao02 - basic linq query\a03 - what is linq\obj\Debug\net6.0\a03 - what is linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cwart\Google Drive\Arquivos de Programação\udemy\LINQ\secao02 - basic linq query\secao02 - basic linq query\a03 - what is linq\obj\Debug\net6.0\a03 - what is linq.AssemblyInfoInputs.cache
+C:\Users\cwart\Google Drive\Arquivos de Programação\udemy\LINQ\secao02 - basic linq query\secao02 - basic linq query\a03 - what is linq\obj\Debug\net6.0\a03 - what is linq.AssemblyInfo.cs
+C:\Users\cwart\Google Drive\Arquivos de Programação\udemy\LINQ\secao02 - basic linq query\secao02 - basic linq query\a03 - what is linq\obj\Debug\net6.0\a03 - what is linq.csproj.CoreCompileInputs.cache
+C:\Users\cwart\Google Drive\Arquivos de Programação\udemy\LINQ\secao02 - basic linq query\secao02 - basic linq query\a03 - what is linq\obj\Debug\net6.0\a03 - what is linq.dll
+C:\Users\cwart\Google Drive\Arquivos de Programação\udemy\LINQ\secao02 - basic linq query\secao02 - basic linq query\a03 - what is linq\obj\Debug\net6.0\refint\a03 - what is linq.dll
+C:\Users\cwart\Google Drive\Arquivos de Programação\udemy\LINQ\secao02 - basic linq query\secao02 - basic linq query\a03 - what is linq\obj\Debug\net6.0\a03 - what is linq.pdb
+C:\Users\cwart\Google Drive\Arquivos de Programação\udemy\LINQ\secao02 - basic linq query\secao02 - basic linq query\a03 - what is linq\obj\Debug\net6.0\a03 - what is linq.genruntimeconfig.cache
+C:\Users\cwart\Google Drive\Arquivos de Programação\udemy\LINQ\secao02 - basic linq query\secao02 - basic linq query\a03 - what is linq\obj\Debug\net6.0\ref\a03 - what is linq.dll
