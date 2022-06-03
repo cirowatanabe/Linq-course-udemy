@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "a03 - what is linq", "a03 -
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "a04 - IEnumerable", "a04 - IEnumerable\a04 - IEnumerable.csproj", "{84CD9805-B0D4-4A6B-BA7D-4045188C0680}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "a05 - LINQ examples", "LINQ examples\a05 - LINQ examples.csproj", "{F08BB632-AE53-40D1-84BA-8C5897ECDFAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "a05 - LINQ examples", "LINQ examples\a05 - LINQ examples.csproj", "{F08BB632-AE53-40D1-84BA-8C5897ECDFAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "a06 - LINQ queries on objects", "LINQ queries on objects\a06 - LINQ queries on objects.csproj", "{DD3A9A94-2C28-4FD4-AFC8-8F994B02FCE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "a06 - LINQ queries on objects", "LINQ queries on objects\a06 - LINQ queries on objects.csproj", "{DD3A9A94-2C28-4FD4-AFC8-8F994B02FCE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "a07 - creating and extracting", "a07 - creating and extracting\a07 - creating and extracting.csproj", "{9255833E-725E-4019-B4BF-7296403851BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{DD3A9A94-2C28-4FD4-AFC8-8F994B02FCE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD3A9A94-2C28-4FD4-AFC8-8F994B02FCE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD3A9A94-2C28-4FD4-AFC8-8F994B02FCE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9255833E-725E-4019-B4BF-7296403851BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9255833E-725E-4019-B4BF-7296403851BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9255833E-725E-4019-B4BF-7296403851BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9255833E-725E-4019-B4BF-7296403851BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
