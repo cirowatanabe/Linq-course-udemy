@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "a05 - LINQ examples", "LINQ
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "a06 - LINQ queries on objects", "LINQ queries on objects\a06 - LINQ queries on objects.csproj", "{DD3A9A94-2C28-4FD4-AFC8-8F994B02FCE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "a07 - creating and extracting", "a07 - creating and extracting\a07 - creating and extracting.csproj", "{9255833E-725E-4019-B4BF-7296403851BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "a07 - creating and extracting", "a07 - creating and extracting\a07 - creating and extracting.csproj", "{9255833E-725E-4019-B4BF-7296403851BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "a08 - the let keyword", "a08 - the let keyword\a08 - the let keyword.csproj", "{2CC87F9F-1BDB-4295-B66B-EEADA4A25BFE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{9255833E-725E-4019-B4BF-7296403851BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9255833E-725E-4019-B4BF-7296403851BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9255833E-725E-4019-B4BF-7296403851BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CC87F9F-1BDB-4295-B66B-EEADA4A25BFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CC87F9F-1BDB-4295-B66B-EEADA4A25BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CC87F9F-1BDB-4295-B66B-EEADA4A25BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CC87F9F-1BDB-4295-B66B-EEADA4A25BFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
