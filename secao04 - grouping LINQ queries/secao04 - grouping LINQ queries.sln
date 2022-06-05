@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "a11 - introduction to grouping", "a11 - introduction to grouping\a11 - introduction to grouping.csproj", "{530AFD59-C6C6-48AE-812F-2A8EEF87992A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "a11 - introduction to grouping", "a11 - introduction to grouping\a11 - introduction to grouping.csproj", "{530AFD59-C6C6-48AE-812F-2A8EEF87992A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "a12 - group by multiple keys", "a12 - group by multiple keys\a12 - group by multiple keys.csproj", "{8587764D-2BFD-4757-98D5-92DF2349AB2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "a12 - group by multiple keys", "a12 - group by multiple keys\a12 - group by multiple keys.csproj", "{8587764D-2BFD-4757-98D5-92DF2349AB2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "a13 - extend a group query with into", "a13 - extend a group query with into\a13 - extend a group query with into.csproj", "{AE597619-F0EA-4BB9-B3F4-3FC579D172F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "a13 - extend a group query with into", "a13 - extend a group query with into\a13 - extend a group query with into.csproj", "{AE597619-F0EA-4BB9-B3F4-3FC579D172F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "a13b", "a13b\a13b.csproj", "{C1B6B7B6-981E-45A6-B11E-8D52C3E6940A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "a13b", "a13b\a13b.csproj", "{C1B6B7B6-981E-45A6-B11E-8D52C3E6940A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "a14 - grouping with custom keys", "a14 - grouping with custom keys\a14 - grouping with custom keys.csproj", "{CDAC3D2E-72B2-43F0-8E7E-DAE85E7320BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "a15 - how many items in each group", "a15 - how many items in each group\a15 - how many items in each group.csproj", "{7950AEB8-36DE-4B7A-B6D6-DC68C7C81738}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{C1B6B7B6-981E-45A6-B11E-8D52C3E6940A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1B6B7B6-981E-45A6-B11E-8D52C3E6940A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1B6B7B6-981E-45A6-B11E-8D52C3E6940A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDAC3D2E-72B2-43F0-8E7E-DAE85E7320BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDAC3D2E-72B2-43F0-8E7E-DAE85E7320BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDAC3D2E-72B2-43F0-8E7E-DAE85E7320BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDAC3D2E-72B2-43F0-8E7E-DAE85E7320BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7950AEB8-36DE-4B7A-B6D6-DC68C7C81738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7950AEB8-36DE-4B7A-B6D6-DC68C7C81738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7950AEB8-36DE-4B7A-B6D6-DC68C7C81738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7950AEB8-36DE-4B7A-B6D6-DC68C7C81738}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

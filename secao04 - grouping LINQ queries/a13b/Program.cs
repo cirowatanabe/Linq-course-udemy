@@ -2,14 +2,14 @@
 
 var groupEvenOdd = from n in numbers
                    orderby n
-                   let evenOrOdd = (n % 2 == 0)
+                   let evenOrOdd = (n % 2 == 0) ? "Even" : "Odd"
                    group n by evenOrOdd into nums
                    orderby nums.Count()
                    select nums;
 
 foreach (var group in groupEvenOdd)
 {
-    Console.WriteLine(group.Key ? "Pares" : "Ímpares");
+    Console.WriteLine(group.Key);
     foreach (var number in group)
     {
         Console.Write(number + ", ");
