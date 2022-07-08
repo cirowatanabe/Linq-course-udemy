@@ -19,7 +19,7 @@
 var youngPeople = from p in people
                   where p.Age < 25
                   select new { Name = p.FirstName, Age = p.Age };
-// Here we created anonymous objects with the properties Name and Age. If we didn't name those properties, they would inherit the names of the propertiies we selected (FirstName, Age).
+// Here we created anonymous objects with the properties Name and Age. If we didn't name those properties, they would inherit the names of the properties we selected (FirstName, Age).
 
 // It is also possible to instantiate objects of classes we have already created:
 

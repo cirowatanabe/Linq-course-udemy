@@ -20,7 +20,7 @@ var youngAdultOrSenior = from p in people
                          let youngOrOlder = (p.Age < 21) ? "Young" : adultOrSenior
                          group p by youngOrOlder;
 
-// Here we nested a ternary operator inside a ternary operator. This way we can divide the list of people in three different categories: young, adult and senior.
+// Here we nested a ternary operator inside a ternary operator. This way we can divide the list of people into three different categories: young, adult and senior.
 
 
 foreach (var group in youngAdultOrSenior)
