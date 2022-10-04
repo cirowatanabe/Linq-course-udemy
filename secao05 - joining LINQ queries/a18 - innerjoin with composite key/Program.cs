@@ -34,7 +34,14 @@ foreach (var item in compositeJoin)
     Console.WriteLine($"    Supplier: {item.Supplier.Name}");
     Console.WriteLine($"    Buyer: {item.BuyerName}");
 }
-
+/*
+ District: Fantasy District; Age: 22
+    Supplier: Harrison
+    Buyer: Johny
+District: Scientists District; Age: 35
+    Supplier: Hailee
+    Buyer: Maria
+*/
 
 
 

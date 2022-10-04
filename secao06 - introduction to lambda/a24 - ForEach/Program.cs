@@ -10,6 +10,7 @@
 // printing warriors height in one line with ForEach method
 
 warriors.ForEach(w => Console.Write(w.Height + " "));
+// 100 80 100 70
 
 Separator();
 
@@ -17,6 +18,7 @@ Separator();
 
 warriors.ForEach(w => w.Height *= 2);
 warriors.ForEach(w => Console.Write(w.Height + " "));
+//200 160 200 140
 
 
 

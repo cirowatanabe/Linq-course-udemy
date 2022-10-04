@@ -34,7 +34,25 @@ foreach (var item in innerJoin)
     Console.WriteLine(item);
     Console.WriteLine();
 }
+/*
+ { SupplierName = Harrison, BuyerName = Johny, District = Fantasy District }
 
+{ SupplierName = Harrison, BuyerName = Paul, District = Fantasy District }
+
+{ SupplierName = Harrison, BuyerName = Pierce, District = Fantasy District }
+
+{ SupplierName = Charles, BuyerName = Sylvia, District = Developers District }
+
+{ SupplierName = Charles, BuyerName = Jaime, District = Developers District }
+
+{ SupplierName = Hailee, BuyerName = Peter, District = Scientists District }
+
+{ SupplierName = Hailee, BuyerName = Maria, District = Scientists District }
+
+{ SupplierName = Hailee, BuyerName = Rebecca, District = Scientists District }
+
+{ SupplierName = Taylor, BuyerName = Joshua, District = EarthIsFlat District }
+*/
 
 
 

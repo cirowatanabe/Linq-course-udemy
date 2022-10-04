@@ -42,6 +42,23 @@ foreach (var item in leftOuterJoin)
     }
 }
 
+/*
+ Supplier: Harrison, District: Fantasy District
+        Johny
+        Paul
+        Pierce
+Supplier: Charles, District: Developers District
+        Joshua
+        Sylvia
+        Jaime
+Supplier: Hailee, District: Scientists District
+        Peter
+        Maria
+        Rebecca
+Supplier: Taylor, District: EarthIsFlat District
+        No one here
+*/
+
 
 // There is another way to make the left outer join
 Console.WriteLine("===================================");
@@ -62,6 +79,29 @@ foreach (var item in alternativeLeftOuterJoin)
     Console.WriteLine($"{item.Name} - {item.District}");
     Console.WriteLine($"    {item.BuyersName}, {item.BuyersDistrict}");
 }
+
+/*
+ Harrison - Fantasy District
+    Johny, Fantasy District
+Harrison - Fantasy District
+    Paul, Fantasy District
+Harrison - Fantasy District
+    Pierce, Fantasy District
+Charles - Developers District
+    Joshua, Developers District
+Charles - Developers District
+    Sylvia, Developers District
+Charles - Developers District
+    Jaime, Developers District
+Hailee - Scientists District
+    Peter, Scientists District
+Hailee - Scientists District
+    Maria, Scientists District
+Hailee - Scientists District
+    Rebecca, Scientists District
+Taylor - EarthIsFlat District
+    No one here, I dont exist
+*/
 
 
 internal class Supplier
