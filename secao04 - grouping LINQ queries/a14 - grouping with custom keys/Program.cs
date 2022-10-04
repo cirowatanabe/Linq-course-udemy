@@ -32,7 +32,23 @@ foreach (var group in youngAdultOrSenior)
     }
 }
 
-
+/*
+ Adults
+  Tod, 26
+  John, 21
+  Anna, 22
+  Kyle, 29
+  Anna, 28
+  Aaron, 21
+Senior
+  Maria, 43
+  John, 37
+  Samba, 33
+Young
+  Aby, 20
+  Maddie, 19
+  Lara, 18
+*/
 
 
 

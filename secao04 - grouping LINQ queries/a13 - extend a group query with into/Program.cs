@@ -31,6 +31,34 @@ foreach (var group in peopleByAge)
     }
 }
 
+/*
+ Age: 18
+    Lara
+Age: 19
+    Maddie
+Age: 20
+    Aby
+Age: 21
+    John
+    Aaron
+Age: 22
+    Anna
+Age: 26
+    Tod
+Age: 28
+    Anna
+Age: 29
+    Kyle
+Age: 33
+    Samba
+Age: 37
+    John
+Age: 43
+    Maria
+*/
+
+Console.WriteLine(new String('=', 40));
+
 // Improving the last lecture's example
 
 var peopleByGenderAndAge = from p in people
@@ -47,6 +75,31 @@ foreach (var group in peopleByGenderAndAge)
     }
 }
 
+/*
+ Gender: Male, Age: 26
+   Tod
+Gender: Female, Age: 22
+   Anna
+Gender: Male, Age: 29
+   Kyle
+Gender: Male, Age: 28
+   Anna
+Gender: Female, Age: 43
+   Maria
+Gender: Female, Age: 37
+   John
+Gender: Male, Age: 33
+   Samba
+Gender: Female, Age: 20
+   Aby
+Gender: Female, Age: 19
+   Maddie
+Gender: Female, Age: 18
+   Lara
+Gender: Male, Age: 21
+   John
+   Aaron
+*/
 
 
 

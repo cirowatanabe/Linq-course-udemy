@@ -17,6 +17,13 @@ foreach (var group in groupEvenOdd)
     Console.WriteLine();
 }
 
+/*
+ Odd
+1, 3, 3, 5, 5, 5, 7, 7, 653,
+Even
+2, 4, 4, 6, 6, 6, 8, 14, 54, 234,
+*/
+
 //List<int> even = new List<int>();
 //List<int> odd = new List<int>();
 

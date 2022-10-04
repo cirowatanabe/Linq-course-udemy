@@ -31,6 +31,31 @@ foreach (var key in multipleKeys)
         Console.WriteLine($"  {p.FirstName}");
     }
 }
+/*
+ { Age = 26, Gender = Male }
+  Tod
+{ Age = 21, Gender = Male }
+  John
+  Aaron
+{ Age = 22, Gender = Female }
+  Anna
+{ Age = 29, Gender = Male }
+  Kyle
+{ Age = 28, Gender = Male }
+  Anna
+{ Age = 43, Gender = Female }
+  Maria
+{ Age = 37, Gender = Female }
+  John
+{ Age = 33, Gender = Male }
+  Samba
+{ Age = 20, Gender = Female }
+  Aby
+{ Age = 19, Gender = Female }
+  Maddie
+{ Age = 18, Gender = Female }
+  Lara
+*/
 
 Console.WriteLine(new String('=', 40));
 
@@ -51,6 +76,42 @@ foreach (var group in orderedKeys)
 }
 
 // Actually there is a better way to do this, using the 'into' keyword (see next class)
+
+/*
+ Gender: Male, Age: 26
+  Tod
+
+Gender: Female, Age: 22
+  Anna
+
+Gender: Male, Age: 29
+  Kyle
+
+Gender: Male, Age: 28
+  Anna
+
+Gender: Female, Age: 43
+  Maria
+
+Gender: Female, Age: 37
+  John
+
+Gender: Male, Age: 33
+  Samba
+
+Gender: Female, Age: 20
+  Aby
+
+Gender: Female, Age: 19
+  Maddie
+
+Gender: Female, Age: 18
+  Lara
+
+Gender: Male, Age: 21
+  John
+  Aaron
+*/
 
 
 

@@ -27,7 +27,10 @@ foreach (var genderGroup in genderGroups)
     Console.WriteLine($"{genderGroup.Gender}: {genderGroup.NumOfPeople}");
 }
 
-
+/*
+ Male: 6
+Female: 6
+*/
 
 
 
