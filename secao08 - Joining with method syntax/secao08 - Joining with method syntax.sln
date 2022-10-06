@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inner join and composite join", "Inner join and composite join\Inner join and composite join.csproj", "{66CE01D7-AF97-44E9-8941-F5111AE66AB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inner join and composite join", "Inner join and composite join\Inner join and composite join.csproj", "{66CE01D7-AF97-44E9-8941-F5111AE66AB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Group join and group inner join", "Group join and group inner join\Group join and group inner join.csproj", "{A4D600FD-BA89-4EFA-AFD6-AD35C47A3100}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Juncao multipla", "Juncao multipla\Juncao multipla.csproj", "{56C4C03C-FFB6-4C7E-9641-FAF6DFE5D504}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Left outer join", "Left outer join\Left outer join.csproj", "{40F48B69-0E37-4F45-B4A4-A26212004F79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{66CE01D7-AF97-44E9-8941-F5111AE66AB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66CE01D7-AF97-44E9-8941-F5111AE66AB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66CE01D7-AF97-44E9-8941-F5111AE66AB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4D600FD-BA89-4EFA-AFD6-AD35C47A3100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4D600FD-BA89-4EFA-AFD6-AD35C47A3100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4D600FD-BA89-4EFA-AFD6-AD35C47A3100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4D600FD-BA89-4EFA-AFD6-AD35C47A3100}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56C4C03C-FFB6-4C7E-9641-FAF6DFE5D504}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56C4C03C-FFB6-4C7E-9641-FAF6DFE5D504}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56C4C03C-FFB6-4C7E-9641-FAF6DFE5D504}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56C4C03C-FFB6-4C7E-9641-FAF6DFE5D504}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40F48B69-0E37-4F45-B4A4-A26212004F79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40F48B69-0E37-4F45-B4A4-A26212004F79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40F48B69-0E37-4F45-B4A4-A26212004F79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40F48B69-0E37-4F45-B4A4-A26212004F79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
